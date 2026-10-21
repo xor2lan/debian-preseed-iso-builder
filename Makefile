@@ -1,5 +1,5 @@
 
-ISOBASEFILE=debian-12.0.0-amd64-netinst.iso
+ISOBASEFILE=debian-13.7.0-amd64-netinst.iso
 DESTINATION=isofiles
 PRESEEDFILE=preseed.cfg
 ISOLINUXDIR=isolinux
